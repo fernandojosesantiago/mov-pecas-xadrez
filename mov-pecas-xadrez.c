@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-void numberMaior(); // Declaração da funçãos
 int main() {
     // Movimentação da Torre
     int i;
